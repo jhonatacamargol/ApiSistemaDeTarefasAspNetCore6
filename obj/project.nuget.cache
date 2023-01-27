@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6EXAffCn+xgv4/fN8JkDiADsH3SP+cqogobO3aNefl+2T+BG5RZTqzsBW6cOTR/3WN8lVs5PaTHhusAKNJnwdw==",
+  "dgSpecHash": "y5k+SeuR5Mfs2YQSdth+Fa9jioWv48WkdUTKYRk1aG3/ynG5GjNh2ArmfwvlFlu30eeycmNqVHyIyNBeto6a9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhona\\Documents\\Repositório GIT\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+  "projectFilePath": "C:\\Users\\jhona\\Documents\\Repositório GIT\\SistemaDeTarefas\\SistemaDeTarefas\\ApiSistemaDeTarefasAspNetCore6\\SistemaDeTarefas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhona\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\jhona\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

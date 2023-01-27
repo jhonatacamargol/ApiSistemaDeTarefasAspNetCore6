@@ -2227,11 +2227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhona\\Documents\\Repositório GIT\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectUniqueName": "C:\\Users\\jhona\\Documents\\Repositório GIT\\SistemaDeTarefas\\SistemaDeTarefas\\ApiSistemaDeTarefasAspNetCore6\\SistemaDeTarefas.csproj",
       "projectName": "SistemaDeTarefas",
-      "projectPath": "C:\\Users\\jhona\\Documents\\Repositório GIT\\SistemaDeTarefas\\SistemaDeTarefas\\SistemaDeTarefas.csproj",
+      "projectPath": "C:\\Users\\jhona\\Documents\\Repositório GIT\\SistemaDeTarefas\\SistemaDeTarefas\\ApiSistemaDeTarefasAspNetCore6\\SistemaDeTarefas.csproj",
       "packagesPath": "C:\\Users\\jhona\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhona\\Documents\\Repositório GIT\\SistemaDeTarefas\\SistemaDeTarefas\\obj\\",
+      "outputPath": "C:\\Users\\jhona\\Documents\\Repositório GIT\\SistemaDeTarefas\\SistemaDeTarefas\\ApiSistemaDeTarefasAspNetCore6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhona\\AppData\\Roaming\\NuGet\\NuGet.Config",

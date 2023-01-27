@@ -25,6 +25,8 @@ namespace SistemaDeTarefas
 
             builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
+            builder.Services.AddScoped<ITarefaRepositorio, TarefaRepositorio>();
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
