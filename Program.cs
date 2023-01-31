@@ -27,6 +27,19 @@ namespace SistemaDeTarefas
 
             builder.Services.AddScoped<ITarefaRepositorio, TarefaRepositorio>();
 
+            builder.Services.AddCors(options =>
+            {
+                // this defines a CORS policy called "default"
+                options.AddPolicy("default", policy =>
+                {
+                    policy.AllowAnyOrigin()
+                        .AllowAnyHeader()
+                        .AllowAnyMethod();
+                });
+            });
+
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -42,6 +55,10 @@ namespace SistemaDeTarefas
 
 
             app.MapControllers();
+            
+            app.UseCors("default");
+
+            app.UseResponseCaching();
 
             app.Run();
         }
